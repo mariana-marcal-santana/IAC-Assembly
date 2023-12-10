@@ -1,4 +1,4 @@
-#Project made in Introduction to Computer Architecture:
+Project made in Introduction to Computer Architecture class:
 
 Game Spacewars programmed for PEPE-16;
 
